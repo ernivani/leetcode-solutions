@@ -7,6 +7,7 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 ```
 .
 ├── README.md
+├── JOURNAL.md
 ├── Rust/
 │   └── Solutions en Rust
 └── Python/
@@ -15,9 +16,7 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 
 ## Journal des Solutions
 
-| Date | Problème | Difficulté | Solution |
-|------|----------|------------|----------|
-| 2023-12-24 | [3203. Minimum Diameter After Removing Edge and Adding Edge](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/?envType=daily-question&envId=2024-12-24) | Hard | [Rust](./Rust/3203.rs) |
+[Voir le journal complet des solutions](./JOURNAL.md)
 
 ## Comment utiliser ce dépôt
 
