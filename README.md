@@ -10,8 +10,10 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 ├── JOURNAL.md
 ├── Rust/
 │   └── Solutions en Rust
-└── Python/
-    └── Solutions en Python
+├── Python/
+│   └── Solutions en Python
+└── C++/
+    └── Solutions en C++
 ```
 
 ## Journal des Solutions
@@ -33,4 +35,5 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 ## Langages utilisés
 
 - Rust
-- Python (à venir) 
+- Python
+- C++ 
