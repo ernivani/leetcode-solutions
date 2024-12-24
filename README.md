@@ -17,7 +17,7 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 
 | Date | Problème | Difficulté | Solution |
 |------|----------|------------|----------|
-| 2023-12-24 | [3203. Minimum Diameter After Removing Edge and Adding Edge](https://leetcode.com/problems/minimum-diameter-after-removing-edge-and-adding-edge/) | Hard | [Rust](./Rust/3203.rs) |
+| 2023-12-24 | [3203. Minimum Diameter After Removing Edge and Adding Edge](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/?envType=daily-question&envId=2024-12-24) | Hard | [Rust](./Rust/3203.rs) |
 
 ## Comment utiliser ce dépôt
 
