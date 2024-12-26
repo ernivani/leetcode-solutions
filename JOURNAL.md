@@ -2,6 +2,7 @@
 
 | Date | Problème | Difficulté | Solution |
 |------|----------|------------|----------|
+| 2023-12-26 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) | Medium | [Link](./Python/80.py) |
 | 2023-12-26 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | Easy | [Link](./TypeScript/26.ts) |
 | 2023-12-26 | [27. Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) | Easy | [Link](./PHP/27.php) |
 | 2023-12-26 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150) | Medium | [Link](./Rust/162.rs) |
