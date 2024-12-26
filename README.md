@@ -12,8 +12,12 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 │   └── Solutions en Rust
 ├── Python/
 │   └── Solutions en Python
-└── C++/
-    └── Solutions en C++
+├── C++/
+│   └── Solutions en C++
+├── TypeScript/
+│   └── Solutions en TypeScript
+└── PHP/
+    └── Solutions en PHP
 ```
 
 ## Journal des Solutions
@@ -36,4 +40,6 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 
 - Rust
 - Python
-- C++ 
+- C++
+- TypeScript
+- PHP 
