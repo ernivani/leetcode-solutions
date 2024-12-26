@@ -2,6 +2,10 @@
 
 | Date | Problème | Difficulté | Solution |
 |------|----------|------------|----------|
+| 2023-12-26 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Medium | [Link](./Rust/19.rs) |
+| 2023-12-26 | [18. 4Sum](https://leetcode.com/problems/4sum/description/) | Medium | [Link](./Rust/18.rs) |
+| 2023-12-26 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | Medium | [Link](./Rust/17.rs) |
+| 2023-12-26 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Link](./Rust/16.rs) |
 | 2023-12-26 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) | Medium | [Link](./Python/80.py) |
 | 2023-12-26 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | Easy | [Link](./TypeScript/26.ts) |
 | 2023-12-26 | [27. Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) | Easy | [Link](./PHP/27.php) |
