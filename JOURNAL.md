@@ -2,6 +2,7 @@
 
 | Date | Problème | Difficulté | Solution |
 |------|----------|------------|----------|
+| 2023-12-26 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150) | Medium | [Link](./Rust/162.rs) |
 | 2023-12-26 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/?envType=study-plan-v2&envId=top-interview-150) | Medium | [Link](./Rust/74.rs) |
 | 2023-12-26 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | Easy | [Link](./Rust/88.rs) |
 | 2023-12-26 | [15. 3Sum](https://leetcode.com/problems/3sum/description/) | Medium | [Link](./C++/15.cpp) |
