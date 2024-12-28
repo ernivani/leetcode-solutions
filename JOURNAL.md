@@ -29,3 +29,4 @@
 | 2024-12-26 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Medium | [Link](./Rust/19.rs) |
 | 2024-12-28 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | Medium | [Link](./TypeScript/24.ts) |
 | 2024-12-28 | [195. Tenth Line](https://leetcode.com/problems/tenth-line/description/?envType=problem-list-v2&envId=shell) | Easy | [Link](./Shell/195.sh) |
+| 2024-12-28 | [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/) | Hard | [Link](./TypeScript/2366.ts) |
