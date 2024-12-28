@@ -30,3 +30,5 @@
 | 2024-12-28 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | Medium | [Link](./TypeScript/24.ts) |
 | 2024-12-28 | [195. Tenth Line](https://leetcode.com/problems/tenth-line/description/?envType=problem-list-v2&envId=shell) | Easy | [Link](./Shell/195.sh) |
 | 2024-12-28 | [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/) | Hard | [Link](./TypeScript/2366.ts) |
+| 2024-12-28 | [2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) | Medium | [Link](./TypeScript/2260.ts) |
+| 2024-12-28 | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/) | Easy | [Link](./TypeScript/2418.ts) |
