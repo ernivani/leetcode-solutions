@@ -9,6 +9,7 @@
 | 2024-12-28 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | Hard | [Link](./TypeScript/44.ts) |
 | 2024-12-28 | [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | Hard | [Link](./TypeScript/51.ts) |
 | 2024-12-28 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Hard | [Link](./TypeScript/52.ts) |
+| 2024-12-28 | [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | Hard | [Link](./TypeScript/60.ts) |
 | 2024-12-24 | [3203. Minimum Diameter After Removing Edge and Adding Edge](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/?envType=daily-question&envId=2024-12-24) | Hard | [Link](./Rust/3203.rs) |
 | 2024-12-24 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/?envType=daily-question&envId=2024-12-22) | Hard | [Link](./C++/2940.cpp) |
 | 2024-12-23 | [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/?envType=daily-question&envId=2024-12-23) | Medium | [Link](./Python/2471.py) |
