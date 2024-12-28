@@ -8,11 +8,9 @@ function trap(height: number[]): number {
     let water = 0;
     
     while (left < right) {
-        // Update the maximum heights from left and right
         leftMax = Math.max(leftMax, height[left]);
         rightMax = Math.max(rightMax, height[right]);
         
-        // Calculate trapped water based on the smaller wall
         if (leftMax < rightMax) {
             water += leftMax - height[left];
             left++;
