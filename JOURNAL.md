@@ -5,6 +5,7 @@
 | 2024-12-27 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/?envType=daily-question&envId=2024-12-27) | Medium | [Link](./Rust/1014.rs) |
 | 2024-12-28 | [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/?envType=daily-question&envId=2024-12-28) | Hard | [Link](./Python/689.py) |
 | 2024-12-25 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2024-12-25) | Medium | [Link](./Rust/515.rs) |
+| 2024-12-28 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Link](./TypeScript/42.ts) |
 | 2024-12-24 | [3203. Minimum Diameter After Removing Edge and Adding Edge](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/?envType=daily-question&envId=2024-12-24) | Hard | [Link](./Rust/3203.rs) |
 | 2024-12-24 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/?envType=daily-question&envId=2024-12-22) | Hard | [Link](./C++/2940.cpp) |
 | 2024-12-23 | [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/?envType=daily-question&envId=2024-12-23) | Medium | [Link](./Python/2471.py) |
