@@ -36,3 +36,4 @@
 | 2024-12-28 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | Easy | [Link](./TypeScript/28.ts) |
 | 2024-12-28 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | Medium | [Link](./TypeScript/29.ts) |
 | 2024-12-28 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | Medium | [Link](./TypeScript/31.ts) |
+| 2024-12-28 | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [Link](./SQL/1683.sql) |
