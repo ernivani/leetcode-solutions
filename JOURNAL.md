@@ -33,3 +33,4 @@
 | 2024-12-28 | [2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) | Medium | [Link](./TypeScript/2260.ts) |
 | 2024-12-28 | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/) | Easy | [Link](./TypeScript/2418.ts) |
 | 2024-12-28 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium | [Link](./TypeScript/22.ts) |
+| 2024-12-28 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | Easy | [Link](./TypeScript/28.ts) |
