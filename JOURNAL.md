@@ -6,6 +6,7 @@
 | 2024-12-28 | [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/?envType=daily-question&envId=2024-12-28) | Hard | [Link](./Python/689.py) |
 | 2024-12-25 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2024-12-25) | Medium | [Link](./Rust/515.rs) |
 | 2024-12-28 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Link](./TypeScript/42.ts) |
+| 2024-12-28 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Link](./TypeScript/76.ts) |
 | 2024-12-28 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | Hard | [Link](./TypeScript/44.ts) |
 | 2024-12-28 | [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | Hard | [Link](./TypeScript/51.ts) |
 | 2024-12-28 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Hard | [Link](./TypeScript/52.ts) |
