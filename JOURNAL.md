@@ -20,3 +20,4 @@
 | 2024-12-26 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | Medium | [Link](./Rust/17.rs) |
 | 2024-12-26 | [18. 4Sum](https://leetcode.com/problems/4sum/description/) | Medium | [Link](./Rust/18.rs) |
 | 2024-12-26 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Medium | [Link](./Rust/19.rs) |
+| 2024-12-28 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | Medium | [Link](./TypeScript/24.ts) |
