@@ -26,12 +26,32 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 
 ## 📊 Statistiques
 
+```mermaid
+pie title Problem Difficulty Distribution
+    "Easy" : 9
+    "Medium" : 14
+    "Hard" : 12
+```
+
+```mermaid
+pie title Programming Language Distribution
+    "TypeScript" : 15
+    "Rust" : 8
+    "Python" : 3
+    "SQL" : 4
+    "C++" : 2
+    "PHP" : 1
+    "Shell" : 1
+```
+
 - Solutions par langage:
   - Rust
   - Python
   - C++
   - TypeScript
   - PHP
+  - SQL
+  - Shell
 
 ## 📖 Journal des Solutions
 
