@@ -61,8 +61,14 @@ pie title Programming Language Distribution
 ```
 
 ```mermaid
-bar title Daily Problem Submissions
-    axis-x "Dec 23" "Dec 24" "Dec 25" "Dec 26" "Dec 27" "Dec 28" "Dec 29"
-    axis-y 0 5 10 15 20
-    bar "Problems" 1 2 1 11 1 18 1
+%%{init: {'theme': 'default'}}%%
+barchart
+    title Daily Problem Submissions
+    "Dec 23" : 1
+    "Dec 24" : 2
+    "Dec 25" : 1
+    "Dec 26" : 11
+    "Dec 27" : 1
+    "Dec 28" : 18
+    "Dec 29" : 1
 ```
