@@ -61,14 +61,27 @@ pie title Programming Language Distribution
 ```
 
 ```mermaid
-%%{init: {'theme': 'default'}}%%
-barchart
-    title Daily Problem Submissions
-    "Dec 23" : 1
-    "Dec 24" : 2
-    "Dec 25" : 1
-    "Dec 26" : 11
-    "Dec 27" : 1
-    "Dec 28" : 18
-    "Dec 29" : 1
+graph TD
+    title[Daily Problem Submissions]
+    style Dec23 fill:#9f9,stroke:#333,stroke-width:2px
+    style Dec24 fill:#9f9,stroke:#333,stroke-width:2px
+    style Dec25 fill:#9f9,stroke:#333,stroke-width:2px
+    style Dec26 fill:#9f9,stroke:#333,stroke-width:2px
+    style Dec27 fill:#9f9,stroke:#333,stroke-width:2px
+    style Dec28 fill:#9f9,stroke:#333,stroke-width:2px
+    style Dec29 fill:#9f9,stroke:#333,stroke-width:2px
+    Dec23[Dec 23: 1]
+    Dec24[Dec 24: 2]
+    Dec25[Dec 25: 1]
+    Dec26[Dec 26: 11]
+    Dec27[Dec 27: 1]
+    Dec28[Dec 28: 18]
+    Dec29[Dec 29: 1]
+    title --> Dec23
+    title --> Dec24
+    title --> Dec25
+    title --> Dec26
+    title --> Dec27
+    title --> Dec28
+    title --> Dec29
 ```
