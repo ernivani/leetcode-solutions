@@ -40,6 +40,7 @@
 | 2024-12-28 | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [Link](./SQL/1378.sql) |
 | 2024-12-28 | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [Link](./SQL/1068.sql) |
 | 2024-12-28 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [Link](./SQL/1581.sql) |
+| 2024-12-29 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium | [Link](./C++/33.cpp) |
 | 2024-12-29 | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/?envType=daily-question&envId=2024-12-29) | Hard | [Link](./C++/1639.cpp) |
 
 ```mermaid
