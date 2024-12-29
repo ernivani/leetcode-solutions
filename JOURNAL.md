@@ -41,3 +41,28 @@
 | 2024-12-28 | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [Link](./SQL/1068.sql) |
 | 2024-12-28 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [Link](./SQL/1581.sql) |
 | 2024-12-29 | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/?envType=daily-question&envId=2024-12-29) | Hard | [Link](./C++/1639.cpp) |
+
+```mermaid
+pie title Problem Difficulty Distribution
+    "Easy" : 9
+    "Medium" : 14
+    "Hard" : 12
+```
+
+```mermaid
+pie title Programming Language Distribution
+    "TypeScript" : 15
+    "Rust" : 8
+    "Python" : 3
+    "SQL" : 4
+    "C++" : 2
+    "PHP" : 1
+    "Shell" : 1
+```
+
+```mermaid
+bar title Daily Problem Submissions
+    axis-x "Dec 23" "Dec 24" "Dec 25" "Dec 26" "Dec 27" "Dec 28" "Dec 29"
+    axis-y 0 5 10 15 20
+    bar "Problems" 1 2 1 11 1 18 1
+```
