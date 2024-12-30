@@ -29,7 +29,7 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 ```mermaid
 pie title Problem Difficulty Distribution
     "Easy" : 9
-    "Medium" : 15
+    "Medium" : 16
     "Hard" : 12
 ```
 
@@ -42,7 +42,7 @@ pie title Programming Language Distribution
     "C++" : 2
     "PHP" : 1
     "Shell" : 1
-    "C#" : 1
+    "C#" : 2
 ```
 
 - Solutions par langage:

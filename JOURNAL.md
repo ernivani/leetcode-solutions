@@ -43,11 +43,12 @@
 | 2024-12-29 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium | [Link](./C++/33.cpp) |
 | 2024-12-29 | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/?envType=daily-question&envId=2024-12-29) | Hard | [Link](./C++/1639.cpp) |
 | 2024-12-30 | [2466. Count Ways to Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/?envType=daily-question&envId=2024-12-30) | Medium | [Link](./C%23/2466.cs) |
+| 2024-12-30 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Medium | [Link](./C%23/34.cs) |
 
 ```mermaid
 pie title Problem Difficulty Distribution
     "Easy" : 9
-    "Medium" : 15
+    "Medium" : 16
     "Hard" : 12
 ```
 
@@ -60,5 +61,5 @@ pie title Programming Language Distribution
     "C++" : 2
     "PHP" : 1
     "Shell" : 1
-    "C#" : 1
+    "C#" : 2
 ```
