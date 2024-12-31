@@ -2,6 +2,7 @@
 
 | Date | Problème | Difficulté | Solution |
 |------|----------|------------|----------|
+| 2024-12-31 | [983. Minimum Cost for Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/?envType=daily-question&envId=2024-12-31) | Medium | [Link](./C++/983.cpp) |
 | 2024-12-27 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/?envType=daily-question&envId=2024-12-27) | Medium | [Link](./Rust/1014.rs) |
 | 2024-12-28 | [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/?envType=daily-question&envId=2024-12-28) | Hard | [Link](./Python/689.py) |
 | 2024-12-25 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2024-12-25) | Medium | [Link](./Rust/515.rs) |
@@ -49,7 +50,7 @@
 ```mermaid
 pie title Problem Difficulty Distribution
     "Easy" : 9
-    "Medium" : 16
+    "Medium" : 17
     "Hard" : 13
 ```
 
@@ -59,7 +60,7 @@ pie title Programming Language Distribution
     "Rust" : 8
     "Python" : 3
     "SQL" : 4
-    "C++" : 2
+    "C++" : 3
     "PHP" : 1
     "Shell" : 1
     "C#" : 3
