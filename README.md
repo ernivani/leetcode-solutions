@@ -28,14 +28,14 @@ Ce dépôt contient mes solutions aux problèmes LeetCode, mises à jour quotidi
 
 ```mermaid
 pie title Problem Difficulty Distribution
-    "Easy" : 9
+    "Easy" : 10
     "Medium" : 17
     "Hard" : 13
 ```
 
 ```mermaid
 pie title Programming Language Distribution
-    "TypeScript" : 15
+    "TypeScript" : 16
     "Rust" : 8
     "Python" : 3
     "SQL" : 4
