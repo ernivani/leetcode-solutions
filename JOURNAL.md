@@ -2,6 +2,7 @@
 
 | Date | Problème | Difficulté | Solution |
 |------|----------|------------|----------|
+| 2025-01-02 | [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02) | Medium | [Link](./Rust/2559.rs) |
 | 2025-01-01 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01) | Easy | [Link](./TypeScript/1422.ts) |
 | 2024-12-31 | [983. Minimum Cost for Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/?envType=daily-question&envId=2024-12-31) | Medium | [Link](./C++/983.cpp) |
 | 2024-12-27 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/?envType=daily-question&envId=2024-12-27) | Medium | [Link](./Rust/1014.rs) |
@@ -51,14 +52,14 @@
 ```mermaid
 pie title Problem Difficulty Distribution
     "Easy" : 10
-    "Medium" : 17
+    "Medium" : 18
     "Hard" : 13
 ```
 
 ```mermaid
 pie title Programming Language Distribution
     "TypeScript" : 16
-    "Rust" : 8
+    "Rust" : 9
     "Python" : 3
     "SQL" : 4
     "C++" : 3
