@@ -2,6 +2,8 @@
 
 | Date | Problème | Difficulté | Solution |
 |------|----------|------------|----------|
+| 2025-01-05 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | Medium | [Link](./TypeScript/39.ts) |
+| 2025-01-05 | [38. Count and Say](https://leetcode.com/problems/count-and-say/description/) | Medium | [Link](./TypeScript/38.ts) |
 | 2025-01-05 | [848. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/?envType=daily-question&envId=2025-01-05) | Medium | [Link](./TypeScript/848.ts) |
 | 2025-01-03 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Link](./TypeScript/36.ts) |
 | 2025-01-03 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Link](./TypeScript/35.ts) |
@@ -56,13 +58,13 @@
 ```mermaid
 pie title Problem Difficulty Distribution
     "Easy" : 11
-    "Medium" : 21
+    "Medium" : 23
     "Hard" : 13
 ```
 
 ```mermaid
 pie title Programming Language Distribution
-    "TypeScript" : 19
+    "TypeScript" : 21
     "Rust" : 10
     "Python" : 3
     "SQL" : 4
