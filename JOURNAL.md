@@ -2,6 +2,7 @@
 
 | Date | Problème | Difficulté | Solution |
 |------|----------|------------|----------|
+| 2025-01-05 | [848. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/?envType=daily-question&envId=2025-01-05) | Medium | [Link](./TypeScript/848.ts) |
 | 2025-01-03 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Link](./TypeScript/36.ts) |
 | 2025-01-03 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Link](./TypeScript/35.ts) |
 | 2025-01-03 | [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03) | Medium | [Link](./Rust/2270.rs) |
@@ -55,13 +56,13 @@
 ```mermaid
 pie title Problem Difficulty Distribution
     "Easy" : 11
-    "Medium" : 20
+    "Medium" : 21
     "Hard" : 13
 ```
 
 ```mermaid
 pie title Programming Language Distribution
-    "TypeScript" : 18
+    "TypeScript" : 19
     "Rust" : 10
     "Python" : 3
     "SQL" : 4
